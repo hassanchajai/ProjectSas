@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610620938 source:c:\users\adm\documents\c\projectsasmodif\main.c
+	<stdio.h>
+	<stdlib.h>
+
